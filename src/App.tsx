@@ -1,8 +1,11 @@
+import Hero from "./components/Hero"
+import About from "./components/About"
+
 function App() {
   return (
     <>
-      <h1>Ganak</h1>
-      <p>Universal Calculation Engine</p>
+      <Hero />
+      <About />
     </>
   )
 }
