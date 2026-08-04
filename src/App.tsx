@@ -4,7 +4,7 @@ import About from "./components/About"
 function App() {
   return (
     <>
-      <Hero />
+      <Hero title="Ganak" subtitle="Welcome to Ganak" />
       <About />
     </>
   )
